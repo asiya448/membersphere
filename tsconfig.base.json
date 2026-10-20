@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@membersphere/ui": ["./libs/ui/src/index.ts"]
+    }
+  }
+}
